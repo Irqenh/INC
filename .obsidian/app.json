@@ -33,7 +33,7 @@
   "spellcheck": true,
   "strictLineBreaks": true,
   "showLineNumber": false,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true
 }
