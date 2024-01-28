@@ -34,5 +34,6 @@
   "strictLineBreaks": true,
   "showLineNumber": false,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
 }
