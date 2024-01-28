@@ -88,6 +88,19 @@
             }
           },
           {
+            "id": "de58a3d9ecd578b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "$ I.N.C..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "24dd961871f509ee",
             "type": "leaf",
             "state": {
@@ -127,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "cfb533b1f5ae7dce",
@@ -345,10 +358,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94aeb9198f3e2c6c",
+  "active": "de58a3d9ecd578b5",
   "lastOpenFiles": [
-    "Действия.md",
+    "Test.md",
     "$ I.N.C..md",
+    "Untitled",
+    "Действия.md",
     "Дейсвтия.md",
     "5. Сеть/Архитектура сети.md",
     "5. Сеть/Сеть.md",
@@ -376,8 +391,6 @@
     "1. Мир/Фракции.md",
     "5. Сеть/Карта сети.png.crdownload",
     "2. Персонаж/Навыки/Навык Данные.md",
-    "2. Персонаж/Навыки/Развитие навыков.md",
-    "Untitled",
     "5. Нетраннинг/Модель OSI.canvas",
     "5. Нетраннинг/Взаимодействие с сетью.png.crdownload",
     "5. Нетраннинг/Модель OSI.png",
