@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Сеть/Архитектура сети.md",
+                "file": "$ I.N.C..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -145,7 +145,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "5. Сеть/Архитектура сети.md",
+                    "file": "$ I.N.C..md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -187,7 +187,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "5. Сеть/Архитектура сети.md",
+                    "file": "$ I.N.C..md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Сеть/Архитектура сети.md",
+                "file": "$ I.N.C..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Сеть/Архитектура сети.md",
+                "file": "$ I.N.C..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Сеть/Архитектура сети.md"
+                "file": "$ I.N.C..md"
               }
             }
           },
@@ -347,6 +347,10 @@
   },
   "active": "94aeb9198f3e2c6c",
   "lastOpenFiles": [
+    "Действия.md",
+    "$ I.N.C..md",
+    "Дейсвтия.md",
+    "5. Сеть/Архитектура сети.md",
     "5. Сеть/Сеть.md",
     "2. Персонаж/Навыки/Список навыков/Навык Рукопашный бой.md",
     "2. Персонаж/Навыки/Список навыков/$ Список навыков.md",
@@ -355,16 +359,13 @@
     "2. Персонаж/Здоровье/Урон.md",
     "2. Персонаж/Здоровье/Здоровье.md",
     "3. Снаряжение/Оружие.md",
-    "$ I.N.C..md",
     "3. Снаряжение/Снаряжение.md",
     "2. Персонаж/Навыки/Навыки.md",
     "3. Снаряжение/Аугментации.md",
     "Лист персонажа.md",
     "Основные механики.md",
     "2. Персонаж/Персонаж.md",
-    "5. Сеть/Архитектура сети.md",
     "4. Бой/Бой.md",
-    "Действия.md",
     "4. Бой/Поле боя.md",
     "5. Сеть/Нетраннинг.md",
     "source/Гексагональная сетка.png",
@@ -376,7 +377,6 @@
     "5. Сеть/Карта сети.png.crdownload",
     "2. Персонаж/Навыки/Навык Данные.md",
     "2. Персонаж/Навыки/Развитие навыков.md",
-    "2. Персонаж/Черты.md",
     "Untitled",
     "5. Нетраннинг/Модель OSI.canvas",
     "5. Нетраннинг/Взаимодействие с сетью.png.crdownload",
