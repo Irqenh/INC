@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "path:-\"Отложенные механики\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"Тип\":\"Навык\"]",
+      "color": {
+        "a": 1,
+        "rgb": 12752932
+      }
+    },
+    {
+      "query": "path:\"1. Мир\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14669154
+      }
+    },
+    {
+      "query": "path:\"2. Персонаж\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8743150
+      }
+    },
+    {
+      "query": "path:\"3. Снаряжение\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5672146
+      }
+    },
+    {
+      "query": "path:\"4. Бой\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14374743
+      }
+    },
+    {
+      "query": "path:\"5. Сеть\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7920996
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.32819010416667,
+  "lineSizeMultiplier": 2.06829427083333,
+  "collapse-forces": true,
+  "centerStrength": 0.745442708333333,
+  "repelStrength": 14.7005208333333,
+  "linkStrength": 1,
+  "linkDistance": 224,
+  "scale": 0.6316046762907748,
+  "close": true
+}
