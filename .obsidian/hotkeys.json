@@ -1,6 +1,5 @@
 {
-  "editor:insert-link": [],
-  "editor:insert-wikilink": [
+  "editor:insert-link": [
     {
       "modifiers": [
         "Mod"
