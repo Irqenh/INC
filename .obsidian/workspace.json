@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Социалка.md",
+                "file": "$ I.N.C..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -158,7 +158,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Социалка.md",
+                    "file": "$ I.N.C..md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -200,7 +200,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Социалка.md",
+                    "file": "$ I.N.C..md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Социалка.md",
+                "file": "$ I.N.C..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Социалка.md",
+                "file": "$ I.N.C..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Социалка.md"
+                "file": "$ I.N.C..md"
               }
             }
           },
@@ -360,11 +360,12 @@
   },
   "active": "de58a3d9ecd578b5",
   "lastOpenFiles": [
+    "Действия.md",
+    "Социалка.md",
     "Test.md",
     "$ I.N.C..md",
     "Словарь.md",
     "Untitled",
-    "Действия.md",
     "Дейсвтия.md",
     "5. Сеть/Архитектура сети.md",
     "5. Сеть/Сеть.md",
@@ -389,7 +390,6 @@
     "5. Сеть/Карта сети.png",
     "5. Сеть/Взаимодействие с сетью.png",
     "3. Снаряжение/Устройства.md",
-    "1. Мир/Фракции.md",
     "5. Сеть/Карта сети.png.crdownload",
     "5. Нетраннинг/Модель OSI.canvas",
     "5. Нетраннинг/Взаимодействие с сетью.png.crdownload",
