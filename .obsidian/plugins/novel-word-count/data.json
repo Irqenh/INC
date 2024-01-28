@@ -869,15 +869,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.6866666666666666,
-      "characterCount": 1545,
-      "nonWhitespaceCharacterCount": 1333,
+      "characterCount": 1541,
+      "nonWhitespaceCharacterCount": 1329,
       "readingTimeInMinutes": 0.7773584905660378,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706443338971,
-      "modifiedDate": 1706444140236,
-      "sizeInBytes": 2772
+      "modifiedDate": 1706444144811,
+      "sizeInBytes": 2760
     },
     "Test.md": {
       "isCountable": true,
@@ -893,8 +893,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1706444126412,
-      "modifiedDate": 1706444126412,
+      "createdDate": 1706444145463,
+      "modifiedDate": 1706444134955,
       "sizeInBytes": 0
     }
   }
